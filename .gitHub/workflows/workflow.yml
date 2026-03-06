@@ -8,4 +8,3 @@ jobs:
     steps:
       - name: Run hostname command
         run: hostname
-        
